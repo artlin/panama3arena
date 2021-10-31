@@ -15,13 +15,15 @@ class Panama3ArenaGame : ApplicationAdapter() {
 
     override fun render() {
         ScreenUtils.clear(1f, 0f, 0f, 1f)
-        batch!!.begin()
-        batch!!.draw(img, 0f, 0f)
-        batch!!.end()
+        batch?.let {
+            it.begin()
+            it.draw(img, 0f, 0f)
+            it.end()
+        }
     }
 
     override fun dispose() {
-        batch!!.dispose()
-        img!!.dispose()
+        batch?.dispose()
+        img?.dispose()
     }
 }
