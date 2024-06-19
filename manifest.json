@@ -1,0 +1,45 @@
+{
+  "background_color": "#ffffff",
+  "description": "Discover the best businesses in the United Arab Emirates with our comprehensive directory listing website. Find valuable insights and make informed purchasing decisions. Connect with top businesses now!",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Daleel Emirates",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Daleel Emirates",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://uaedaleel.ae/wp-content/uploads/2024/03/cropped-icon-2-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://uaedaleel.ae/wp-content/uploads/2024/03/cropped-icon-2-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://uaedaleel.ae/wp-content/uploads/2024/03/cropped-icon-2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://uaedaleel.ae/wp-content/uploads/2024/03/cropped-icon-2-180x180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "https://uaedaleel.ae/wp-content/uploads/2020/01/restaurant.jpg",
+      "type": "image/jpeg",
+      "sizes": "1600x1067"
+    },
+    {
+      "src": "https://uaedaleel.ae/wp-content/uploads/2024/03/cropped-icon-2-270x270.png",
+      "type": "image/png",
+      "sizes": "270x270"
+    }
+  ],
+  "lang": "en"
+}
